@@ -66,3 +66,6 @@ method.
 
    The algorithm given was correct, but yours should have been different!
 
+
+
+I like a lot that I'm finally starting to learn something about programming. It's a bit complicated because I don't know a lot of things but I'm really enjoying it. 
