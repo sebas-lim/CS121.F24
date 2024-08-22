@@ -14,6 +14,9 @@
 
    This program produces an ASCII art image.
 
+   I think the purpose of this program is to start getting familiar with all the correct writing, variables, etc. we need to write when writing code. 
+   
+
 2. List each source file in the project and explain its purpose.  You
    don't have to use complete sentences.
 
@@ -49,6 +52,7 @@ method.
    find the bug?  What process did you use to fix the bug?  What did
    you learn from this bug that might help you in the future?
 
+I missed a ";" when I run my code. I think now I'll forget less times about writing it at the end. 
 
 
 2. What, if anything, are you going to do differently on the next
